@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ZenPay.Api/ZenPay.Api.csproj" />
+  <Project Path="ZenPay.Core/ZenPay.Core.csproj" />
+</Solution>
