@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E39080C4-6166-E2DA-A542-26B253F27189}|ZenPay.Core\\ZenPay.Core.csproj|c:\\users\\user\\documents\\work\\practice\\practice_payment_gateway\\zenpay.core\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{E39080C4-6166-E2DA-A542-26B253F27189}|ZenPay.Core\\ZenPay.Core.csproj|solutionrelative:zenpay.core\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABBD02FF-28AA-3DA8-1B52-E4D39D9A585C}|ZenPay.Api\\ZenPay.Api.csproj|c:\\users\\user\\documents\\work\\practice\\practice_payment_gateway\\zenpay.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{ABBD02FF-28AA-3DA8-1B52-E4D39D9A585C}|ZenPay.Api\\ZenPay.Api.csproj|solutionrelative:zenpay.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -40,31 +36,17 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\.gitignore",
-              "RelativeDocumentMoniker": "ZenPay.Core\\.gitignore",
-              "ToolTip": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\.gitignore",
-              "RelativeToolTip": "ZenPay.Core\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-21T07:14:16.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\.gitignore",
               "RelativeDocumentMoniker": "ZenPay.Api\\.gitignore",
               "ToolTip": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\.gitignore",
               "RelativeToolTip": "ZenPay.Api\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-21T07:14:04.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T07:14:04.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\Program.cs",
               "RelativeDocumentMoniker": "ZenPay.Api\\Program.cs",
@@ -72,12 +54,11 @@
               "RelativeToolTip": "ZenPay.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T06:55:04.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T06:55:04.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "20260321064840_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\Migrations\\20260321064840_InitialCreate.cs",
               "RelativeDocumentMoniker": "ZenPay.Core\\Migrations\\20260321064840_InitialCreate.cs",
@@ -89,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "ZenPay.Core\\Models\\Transaction.cs",
@@ -101,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ZenPayDbContext.cs",
               "DocumentMoniker": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\Data\\ZenPayDbContext.cs",
               "RelativeDocumentMoniker": "ZenPay.Core\\Data\\ZenPayDbContext.cs",
