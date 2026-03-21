@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZenPay.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae91e2cc4f93d661ab4d8d6c53c448da62ed0af7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3521f55633ce9a255bb026407ac79b394f81b854")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZenPay.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZenPay.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
