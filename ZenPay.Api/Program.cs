@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ZenPay.Core.Data; // For ZenPayDbContext
 using ZenPay.Core.Models; // For Transaction model
+using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,11 +22,14 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.MapScalarApiReference();
 }
 
 app.UseHttpsRedirection();
 
 // 4. Endpoints
+app.MapGet("/", () => Results.Redirect("/scalar")).ExcludeFromDescription();
+
 app.MapGet("/transactions", async (ZenPayDbContext db) =>
     await db.Transactions.ToListAsync())
     .WithName("GetTransactions");
