@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\ZenPay.Api.csproj": {}
+    "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\ZenPay.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\ZenPay.Api.csproj": {
+    "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\ZenPay.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\ZenPay.Api.csproj",
+        "projectUniqueName": "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\ZenPay.Api.csproj",
         "projectName": "ZenPay.Api",
-        "projectPath": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\ZenPay.Api.csproj",
+        "projectPath": "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\ZenPay.Api.csproj",
         "packagesPath": "C:\\Users\\usEr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\obj\\",
+        "outputPath": "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,10 +31,11 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj": {
-                "projectPath": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj"
+              "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj": {
+                "projectPath": "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj"
               }
             }
           }
@@ -49,10 +50,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -93,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -511,14 +513,14 @@
         }
       }
     },
-    "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj": {
+    "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj",
+        "projectUniqueName": "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj",
         "projectName": "ZenPay.Core",
-        "projectPath": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj",
+        "projectPath": "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj",
         "packagesPath": "C:\\Users\\usEr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\obj\\",
+        "outputPath": "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -538,6 +540,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -552,10 +555,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
@@ -589,7 +593,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

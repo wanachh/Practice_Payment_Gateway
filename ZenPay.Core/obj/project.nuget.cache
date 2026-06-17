@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QEnNbSMyKNI=",
+  "dgSpecHash": "EH7MdwYbJw0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\usEr\\Documents\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj",
+  "projectFilePath": "C:\\Users\\usEr\\Documents\\Sanfun\\Work\\Practice\\Practice_Payment_Gateway\\ZenPay.Core\\ZenPay.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usEr\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\usEr\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
